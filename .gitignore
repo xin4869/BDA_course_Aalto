@@ -246,3 +246,4 @@ sandbox/*
 /.luarc.json
 
 /.quarto/
+.DS_Store
